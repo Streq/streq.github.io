@@ -1,0 +1,33 @@
+
+body {
+  max-width: 500px;
+  margin: auto;
+	background-color: var(--col0);
+	color: var(--col2);
+	font-family: Consolas, monaco, monospace;
+	padding: 10%
+}
+
+a {
+	color: var(--col2);
+	text-decoration: none;
+}
+a:hover {
+	background-color: var(--col3);
+	color: var(--col0);
+	image-rendering: pixelated;
+	font-weight: bold;
+}
+
+.title {
+	background: var(--col1);
+	color: var(--col3);
+	padding: 8px;
+	display: table;
+}
+
+
+::selection {
+    background-color: var(--col2);
+    color: var(--col0);
+}
