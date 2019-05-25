@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<main>
+	<title>Welcome heres my stuff</title>
+	<link>
+		<title>line rasterization test</title>
+		<url>HookPlatformer/DaNewTry/testGrid.html</url>
+	</link>
+	<link>
+		<title>incomplete platformer with no intentions of finishing it</title>
+		<url>AvoidColors/main.html</url>
+	</link>
+	<link>
+		<title>fartin through a silly ass maze</title>
+		<url>JuegoEnElBowser/Run.html</url>
+	</link>
+	<link>
+		<title>fartin through a maze 2 PLAYERS</title>
+		<url>JuegoEnElBowser/Run2Players.html</url>
+	</link>
+	<link>
+		<title>my blog where I never post</title>
+		<url>http://streq.blogspot.com/</url>
+	</link>
+</main>

@@ -1,0 +1,43 @@
+.brown {
+	--col0: #040204;
+	--col1: #844204;
+	--col2: #EC9A54;
+	--col3: #FCFAFC;
+}
+
+.gameboypocket {
+	--col0: #000;
+	--col1: #555;
+	--col2: #aaa;
+	--col3: #fff;
+}
+
+.gameboy {
+	--col0: #0f380f;
+	--col1: #306230;
+	--col2: #8bac0f;
+	--col3: #9bbc0f;
+}
+
+.pastelmix {
+	--col0: #040204;
+	--col1: #9C92F4;
+	--col2: #EC8A8C;
+	--col3: #FCFAAC;
+}
+
+.orange {
+	--col0: #040204;
+	--col1: #FC3204;
+	--col2: #F4FE04;
+	--col3: #FCFAFC;
+}
+
+.darkbrown {
+	--col0: #4C2A04;
+	--col1: #947A4C;
+	--col2: #C4AE94;
+	--col3: #FCEAE4;
+}
+
+

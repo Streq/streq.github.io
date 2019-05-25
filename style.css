@@ -1,11 +1,38 @@
+@import "palettes.css";
 
 body {
-  max-width: 500px;
+  max-width: 600;
+  min-width: 400;
   margin: auto;
-	background-color: var(--col0);
+	background-color: var(--col1);
 	color: var(--col2);
 	font-family: Consolas, monaco, monospace;
 	padding: 10%
+}
+
+.col0{
+	color: var(--col0);
+}
+.col1{
+	color: var(--col1);
+}
+.col2{
+	color: var(--col2);
+}
+.col3{
+	color: var(--col3);
+}
+.bcol0{
+	background-color: var(--col0);
+}
+.bcol1{
+	background-color: var(--col1);
+}
+.bcol2{
+	background-color: var(--col2);
+}
+.bcol3{
+	background-color: var(--col3);
 }
 
 a {
@@ -13,7 +40,7 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	background-color: var(--col3);
+	background-color: var(--col2);
 	color: var(--col0);
 	image-rendering: pixelated;
 	font-weight: bold;
