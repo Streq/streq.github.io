@@ -1,17 +1,19 @@
-<title>Dither</title>
-<body>
-	<p>Heyo ain't you just SICK and TIRED of reducing your color palette to find your pictures looking like THIS?</p>
-	<p>
-		<image src=""/>
-		<image src="" title="my life sucks"/>
-	</p>
-	<p>I know I am</p>
-	<p>well check this out</p>
-	<p>
-		<image src=""/>
-		<image src="" title="my life sucks not"/>
-	</p>
-	<p>that's called dithering right there knowhadamsayin</p>
-	<p><link href="">try it here</link></p>
-	<p><note>note: if you want the source code just click inspect I dont give a shit!!!!!!!!!!!!!!!</note></p>
-</body>
+<doc>
+	<title>Dither</title>
+	<body>
+		<p>Heyo ain't you just SICK and TIRED of reducing your color palette to find your pictures looking like THIS?</p>
+		<p>
+			<image src=""/>
+			<image src="" title="my life sucks"/>
+		</p>
+		<p>I know I am</p>
+		<p>well check this out</p>
+		<p>
+			<image src=""/>
+			<image src="" title="my life sucks not"/>
+		</p>
+		<p>that's called dithering right there knowhadamsayin</p>
+		<p><link href="">try it here</link></p>
+		<p><note>note: if you want the source code just click inspect I dont give a shit!!!!!!!!!!!!!!!</note></p>
+	</body>
+</doc>
