@@ -3,12 +3,8 @@
 <main>
 	<title>Welcome heres my stuff</title>
 	<link>
-		<title>line rasterization test</title>
-		<url>HookPlatformer/DaNewTry/testGrid.html</url>
-	</link>
-	<link>
-		<title>rect moving rasterization test</title>
-		<url>HookPlatformer/DaNewTry/testGridRectMove.html</url>
+		<title>RGBerse - color platformer</title>
+		<url>HookPlatformer/DaNewTry/testColorCollision.html</url>
 	</link>
 	<link>
 		<title>incomplete platformer with no intentions of finishing it</title>
