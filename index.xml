@@ -3,6 +3,14 @@
 <main>
 	<title>Welcome heres my stuff</title>
 	<link>
+		<title>github<title>
+		<url>https://github.com/streq</url>
+	</ink>
+	<link>
+		<title>this page's github<title>
+		<url>https://github.com/streq/streq.github.io</url>
+	</ink>
+	<link>
 		<title>RGBerse - color platformer</title>
 		<url>RGBerse</url>
 	</link>
