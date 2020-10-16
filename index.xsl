@@ -7,7 +7,7 @@
 			<link rel="stylesheet" href="style.css" />
 		</head>
 
-		<body class="gameboy">
+		<body class="cooler-gameboy">
 			<div class="bcol3" style="padding:2.5%">
 				<div class="bcol2" style="padding:5%">
 					<div class="bcol0" style="padding:10%">
