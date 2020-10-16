@@ -12,6 +12,13 @@
 	--col3: #fff;
 }
 
+.gameboy-cooler {
+	--col0: #00131A;
+	--col1: #1E594A;
+	--col2: #6CA66C;
+	--col3: #D7F7D7;
+}
+
 .gameboy {
 	--col0: #0f380f;
 	--col1: #306230;
