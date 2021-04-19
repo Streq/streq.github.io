@@ -11,15 +11,19 @@
 		<url>https://github.com/streq/streq.github.io</url>
 	</link>
 	<link>
-		<title>RGBerse - color platformer</title>
+		<title>RGBerse - puzzle platformer proof of concept</title>
 		<url>RGBerse</url>
+	</link>
+	<link>
+		<title>Simple dithering shader</title>
+		<url>dither-shader</url>
 	</link>
 	<link>
 		<title>incomplete platformer with no intentions of finishing it</title>
 		<url>AvoidColors</url>
 	</link>
 	<link>
-		<title>fartin through a silly ass maze</title>
+		<title>fartin through a silly maze</title>
 		<url>JuegoEnElBowser/Run.html</url>
 	</link>
 	<link>
