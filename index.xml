@@ -7,6 +7,10 @@
 		<url>https://github.com/streq</url>
 	</link>
 	<link>
+		<title>Donde Estoy - intento de plataformero de terror usando el concepto de campos de visión 2D/title>
+		<url>DondeEstoy</url>
+	</link>
+	<link>
 		<title>El viaje de Pepe - un juego de la vida misma</title>
 		<url>Petoman</url>
 	</link>
@@ -17,26 +21,6 @@
 	<link>
 		<title>Dithering shader, pega una imagen y dithereala</title>
 		<url>dither-shader</url>
-	</link>
-	<link>
-		<title>un intento de juego que hice una vez en javascript pelado, nunca va a ser un juego</title>
-		<url>AvoidColors</url>
-	</link>
-	<link>
-		<title>volando a los pedos</title>
-		<url>JuegoEnElBowser/Run.html</url>
-	</link>
-	<link>
-		<title>volando a los pedos 2 jugadores</title>
-		<url>JuegoEnElBowser/Run2Players.html</url>
-	</link>
-	<link>
-		<title>pixel mapper - mapea una imagen a json con los valores que le pases por color</title>
-		<url>pixel-mapper</url>
-	</link>
-	<link>
-		<title>un editor de mapas de un juego que nunca voy a hacer</title>
-		<url>TiledMapEditor</url>
 	</link>
 	<link>
 		<title>mi blog donde nunca posteo</title>
