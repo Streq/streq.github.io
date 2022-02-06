@@ -3,14 +3,9 @@
 <main>
 	<title>Hola Gordo</title>
 	<link>
-		<title>mi github (donde esta el codigo de lo que hago)</title>
-		<url>https://github.com/streq</url>
+		<title>mi itch (donde subo juegos)</title>
+		<url>https://streq.itch.io/</url>
 	</link>
-	<link>
-		<title>Vieja Del Huerto - shmup, sos una bruja que mata monstruos</title>
-		<url>vieja_dlorto</url>
-	</link>
-
 	<link>
 		<title>Donde Estoy - intento de plataformero de terror usando el concepto de campos de visión 2D</title>
 		<url>DondeEstoy</url>
